@@ -1,0 +1,8 @@
+{
+  "name": "livegutachter-docusign",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "docusign-esign": "^6.0.0"
+  }
+}
